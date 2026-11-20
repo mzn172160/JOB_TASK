@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "company": "Tesco",
+    "role": "Customer Assistant",
+    "status": "Applied"
+  },
+  {
+    "id": 2,
+    "company": "Amazon",
+    "role": "Warehouse Assistant",
+    "status": "Interview"
+  },
+  {
+    "id": 3,
+    "company": "Lidl",
+    "role": "Store Assistant",
+    "status": "Interview"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "jobId": 1,
+    "title": "Prepare CV for Tesco",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "jobId": 2,
+    "title": "Prepare for Amazon interview",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "jobId": 3,
+    "title": "Prepare CV for Lidl",
+    "completed": true
+  }
+]
